@@ -1,5 +1,11 @@
 # screehavin-testnet
 
+# Minimum System Requirements:
+
+# 
+#
+# 
+
 # Overview
 
 ### ScreeHavin Explorer:  [http://explorer.screehavin.io/](http://explorer.screehavin.io/)
@@ -52,23 +58,24 @@ https://linuxhint.com/install-go-ubuntu-2/
 
 ***
 
+# generate data dir
+# put in public and private key 
+
 # Run Commands
 ## CLI Commands
-| Command | Usage |
-| --- | --- |
-|data| Create data directory in nodes |
-| make run1  | Run test server 1, used on testnet |
-| make run2  | Run test server 2, used on testnet |
-| make run3  | Run test server 3, used on testnet |
-| make run4  | Run test server 4, used on testnet |
 
-## Become A Validator
-you can stake to Staking Contract `0x0000000000000000000000000000000000001001`
+# Run server makefile (choose Linux, Windows distros)
+'make run1'
 
-### Please contract with us if you want to request for testnet tokens
-### Email : `hello@chainverse.org`
+***
 
+# Request for testnet staking tokens
+### Telegram: 'https://t.me/screehavintestnet'
+### Email: `hello@chainverse.org`
 
+***
 
+# Become A Validator
+Stake tokens to Staking Contract address: `0x0000000000000000000000000000000000001001`
 
-
+# Get 
