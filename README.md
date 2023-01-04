@@ -55,12 +55,15 @@ https://linuxhint.com/install-go-ubuntu-2/
 # Run Commands
 ## CLI Commands
 | Command | Usage |
-| --- | --- | 
+| --- | --- |
+|data| Create data directory in nodes |
 | make run1  | Run test server 1, used on testnet |
 | make run2  | Run test server 2, used on testnet |
 | make run3  | Run test server 3, used on testnet |
 | make run4  | Run test server 4, used on testnet |
 
+## Become A Validator
+you can stake to Staking Contract `0x0000000000000000000000000000000000001001`
 
 ### Please contract with us if you want to request for testnet tokens
 ### Email : `hello@chainverse.org`
