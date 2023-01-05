@@ -1,6 +1,13 @@
 # screehavin-testnet
 
 # Minimum System Requirements:
+This is the minimum hardware configuration required to setup a full node:
+
+RAM: 16-32 GB
+
+CPU: 4-8 core CPU (For AWS: t3.2xlarge)
+
+Storage: 2.5TB to 5TB SSD (make sure it is extendable)
 
 # 
 #
@@ -50,6 +57,7 @@ https://linuxhint.com/install-go-ubuntu-2/
 
 ## Install Dependencies
 ### How to install the Make package on Ubuntu
+**Step 3**:
 `sudo apt update`
 `sudo apt install make`
 `make -version`
@@ -58,24 +66,25 @@ https://linuxhint.com/install-go-ubuntu-2/
 
 ***
 
-# generate data dir
-# put in public and private key 
-
-# Run Commands
-## CLI Commands
+# Generate data dir
+**Step 4**: `make default-data`
+# Put in public and private key 
+**Step 5**: 
 
 # Run server makefile (choose Linux, Windows distros)
-'make run1'
+**Step 6**: `make run1`
 
 ***
 
 # Request for testnet staking tokens
+**Step 7**:
 ### Telegram: 'https://t.me/screehavintestnet'
 ### Email: `hello@chainverse.org`
 
 ***
 
 # Become A Validator
+**Step 8**:
 Stake tokens to Staking Contract address: `0x0000000000000000000000000000000000001001`
 
 # Get 
