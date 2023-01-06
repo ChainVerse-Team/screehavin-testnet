@@ -54,18 +54,26 @@ Block explorer URL: http://explorer.screehavin.io/
 **Step 1**: Add file screehavin in server ubuntu
 `git clone https://github.com/ChainVerse-Team/screehavin-testnet.git`
 
+## Setting Environment
+**Step 2**: Create `.env` file
+
+```ruby
+STAKING_CONTRACT=0x0000000000000000000000000000000000001001
+JSONRPC_URL=http://103.138.113.121:8545/
+```
+
 ### How to install the Make package on Ubuntu
-**Step 2**:
+**Step 3**:
 `sudo apt update`
 `sudo apt install make`
 `make -version`
 
 ### Generate data dir
-**Step 3**: `make default-data`
+**Step 4**: `make default-data`
 
 (create data-dir folder in repository)
 ### Put in public and private key 
-**Step 4**:
+**Step 5**:
 
 <img width="1048" alt="Screenshot 2023-01-05 at 10 43 10" src="https://user-images.githubusercontent.com/55268800/210696976-e35e80b6-2355-4163-8a8e-3f242976e791.png">
 
@@ -78,15 +86,15 @@ There are 2 ways to do it:
 <img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
 ### Run server makefile (choose Linux, Windows, MacOS)
-**Step 5**: `make run-macOS` or `make run-windows` or `make run-linux`
+**Step 6**: `make run-macOS` or `make run-windows` or `make run-linux`
 
 ### Request for testnet staking tokens
-**Step 6**:
+**Step 7**:
 ### Telegram: 'https://t.me/screehavintestnet'
 ### Email: `hello@chainverse.org`
 
 ### Become A Validator
-**Step 7**:
+**Step 8**:
 you find `key.text` in scripts/key.txt and add your private-key in it.
 Next, you run command `make batch-staking`
 
