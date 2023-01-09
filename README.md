@@ -18,7 +18,7 @@ Disk:
 
 # Overview
 
-### ScreeHavin Explorer:  [http://explorer.screehavin.io/](http://explorer.screehavin.io/)
+### Screehavin Explorer:  [http://explorer.screehavin.io/](http://explorer.screehavin.io/)
 
 ![image](https://user-images.githubusercontent.com/55268800/208595093-77cfbbf7-7c8a-4adb-b21a-2d2508eaedf4.png)
 
