@@ -1,23 +1,23 @@
 package main
 
 import (
-	"bufio"
 	"context"
 	"crypto/ecdsa"
 	"errors"
 	"fmt"
-	"io"
+	"io/ioutil"
 	"log"
 	"math/big"
-	"os"
 
 	"screehavin-testnet/scripts/build/staking"
 	"screehavin-testnet/scripts/config"
 	"screehavin-testnet/types"
+
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethclient"
+	"github.com/fatih/color"
 )
 
 var (
@@ -50,10 +50,7 @@ func runStaking() {
 		log.Fatal(err)
 	}
 
-	keys, err := loadPriKeys()
-	if err != nil {
-		log.Fatal(err)
-	}
+	keys := loadPriKeys()
 
 	err = batchStaking(keys, client)
 	if err != nil {
@@ -111,40 +108,21 @@ func batchStaking(priKeys []string, client *ethclient.Client) error {
 			return err
 		}
 
-		fmt.Printf("tx sent: %s\n", tx.Hash().Hex())
+		color.Yellow("tx sent: %s\n", tx.Hash().Hex())
+		color.Blue("Staked Successfully !!")
 	}
 
 	return nil
 }
 
 // loadPriKeys reads lines from a file text
-func loadPriKeys() ([]string, error) {
+func loadPriKeys() []string {
 	var arr []string
-	f, err := os.OpenFile(privateKeysTransferTo, os.O_RDONLY, os.ModePerm)
+	body, err := ioutil.ReadFile(privateKeysTransferTo)
 	if err != nil {
-		return arr, err
+		log.Fatalf("unable to read file: %v", err)
 	}
-	defer func(f *os.File) {
-		err := f.Close()
-		if err != nil {
-
-		}
-	}(f)
-
-	rd := bufio.NewReader(f)
-	for {
-		line, err := rd.ReadString('\n')
-		if err != nil {
-			if err == io.EOF {
-				break
-			}
-			log.Fatalf("read file line error: %v", err)
-			return arr, err
-		}
-		if last := len(line) - 1; last >= 0 && line[last] == '\n' {
-			line = line[:last]
-		}
-		arr = append(arr, line)
-	}
-	return arr, nil
+	fmt.Println(string(body))
+	arr = append(arr, string(body))
+	return arr
 }
