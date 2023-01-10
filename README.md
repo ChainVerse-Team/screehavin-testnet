@@ -71,6 +71,8 @@ JSONRPC_URL=http://103.138.113.121:8545/
 ### Put in public and private key 
 **Step 4**: you find `validator.key` file in `data-dir` folder and then replace private-key in this file.
 
+(Note: check your private-key in metamask)
+
 <img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
 ### Run server makefile (choose Linux, Windows, MacOS)
