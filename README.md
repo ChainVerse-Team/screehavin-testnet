@@ -35,7 +35,8 @@ Disk:
 ![image](https://user-images.githubusercontent.com/55268800/208595850-28c77b45-2fa3-4aed-af22-3cbfcc001017.png)
 
 **Step 2**: Fill in these informations
-<img width="979" alt="Screenshot 2022-12-26 at 16 59 31" src="https://user-images.githubusercontent.com/55268800/209535494-88e788e4-c593-4de6-9d59-90bfeeae2bea.png">
+<img width="940" alt="Screenshot 2023-01-10 at 10 42 58" src="https://user-images.githubusercontent.com/55268800/211457147-6b7e3a04-51de-402a-9dc5-3902bb2f0a28.png">
+
 
 ```ruby
 Name : screehavin testnet
