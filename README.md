@@ -75,7 +75,11 @@ JSONRPC_URL=http://103.138.113.121:8545/
 ### Put in public and private key 
 **Step 5**:
 
-<img width="1048" alt="Screenshot 2023-01-05 at 10 43 10" src="https://user-images.githubusercontent.com/55268800/210696976-e35e80b6-2355-4163-8a8e-3f242976e791.png">
+```ruby
+Public key (address) = 0xB76ee59C95ef8Ea23decb80b6cC26a04D665cfDc
+BLS Public key       = 0xa996eb63e46c4f9d63ec02e2af36c29f26d18bed442f9d4ba20dfbbd1431c4e71171303ea503e1901266a376c57eda49
+Node ID              = 16Uiu2HAkud5dTiS1jeRAcPu9kDKZM9R5PUGWTnSAGL6f4otFVxqq
+```
 
 There are 2 ways to do it:
 
