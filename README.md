@@ -91,7 +91,7 @@ JSONRPC_URL=http://103.138.113.121:8545/
 
 ### Become A Validator
 **Step 7**:
-you find `key.text` in scripts/key.txt and add your private-key in it.
+you find `keys.text` in scripts/key.txt and add your private-key in it.
 Next, you run command `make batch-staking`
 
 (VALIDATOR_THRESHOLD = 10 SCREE)
