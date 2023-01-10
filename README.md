@@ -68,24 +68,8 @@ JSONRPC_URL=http://103.138.113.121:8545/
 `sudo apt install make`
 `make -version`
 
-### Generate data dir
-**Step 4**: `make default-data`
-
-(create data-dir folder in repository)
 ### Put in public and private key 
-**Step 5**:
-
-```ruby
-Public key (address) = 0xB76ee59C95ef8Ea23decb80b6cC26a04D665cfDc
-BLS Public key       = 0xa996eb63e46c4f9d63ec02e2af36c29f26d18bed442f9d4ba20dfbbd1431c4e71171303ea503e1901266a376c57eda49
-Node ID              = 16Uiu2HAkud5dTiS1jeRAcPu9kDKZM9R5PUGWTnSAGL6f4otFVxqq
-```
-
-There are 2 ways to do it:
-
-1 .you use the available information of default node.
-
-2 .you find `validator.key` file in `data-dir` folder and then replace private-key in this file.
+**Step 4**: you find `validator.key` file in `data-dir` folder and then replace private-key in this file.
 
 <img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
