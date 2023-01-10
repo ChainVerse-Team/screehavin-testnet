@@ -53,6 +53,7 @@ Block explorer URL: http://explorer.screehavin.io/
 ## Deployment Steps
 
 **Step 1**: Clone a repository into a new directory
+
 `git clone https://github.com/ChainVerse-Team/screehavin-testnet.git`
 
 ## Setting Environment
