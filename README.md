@@ -74,15 +74,15 @@ JSONRPC_URL=http://103.138.113.121:8545/
 <img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
 ### Run server makefile (choose Linux, Windows, MacOS)
-**Step 6**: `make run-macOS` or `make run-windows` or `make run-linux`
+**Step 5**: `make run-macOS` or `make run-windows` or `make run-linux`
 
 ### Request for testnet staking tokens
-**Step 7**:
+**Step 6**:
 ### Telegram: 'https://t.me/screehavintestnet'
 ### Email: `hello@chainverse.org`
 
 ### Become A Validator
-**Step 8**:
+**Step 7**:
 you find `key.text` in scripts/key.txt and add your private-key in it.
 Next, you run command `make batch-staking`
 
