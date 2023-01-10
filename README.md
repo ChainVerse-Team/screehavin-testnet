@@ -56,6 +56,8 @@ Block explorer URL: http://explorer.screehavin.io/
 
 `git clone https://github.com/ChainVerse-Team/screehavin-testnet.git`
 
+`cd screehavin-testnet`
+
 ## Setting Environment
 **Step 2**: Create `.env` file
 
@@ -69,6 +71,8 @@ JSONRPC_URL=http://103.138.113.121:8545/
 `sudo apt update`
 `sudo apt install make`
 `make -version`
+
+(if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
 
 ### Put in public and private key 
 **Step 4**: you find `validator.key` file in `data-dir` folder and then replace private-key in this file.
