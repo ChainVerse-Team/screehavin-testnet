@@ -50,7 +50,7 @@ Block explorer URL: http://explorer.screehavin.io/
 
 # BlockChain Development Procedure
 
-## Deployment Steps
+## Deployment steps
 
 **Step 1**: Clone a repository into a new directory
 
@@ -62,16 +62,22 @@ Block explorer URL: http://explorer.screehavin.io/
 
 `cd screehavin-testnet`
 
-## Setting Environment
-**Step 2**: Create `.env` file
+## Create a data directory
+
+**Step 2**: `make data-dir-macOS` or `make data-dir-linux` or `make data-dir-windows`
+
+(choose the operating system that is compatible with your computer)
+
+## Setting environment
+**Step 3**: Create `.env` file
 
 ```ruby
 STAKING_CONTRACT=0x0000000000000000000000000000000000001001
 JSONRPC_URL=http://103.138.113.121:8545/
 ```
 
-### How to install the Make package on Ubuntu
-**Step 3**:
+### How to install the Make package on server
+**Step 4**:
 `sudo apt update`
 `sudo apt install make`
 `make -version`
@@ -79,7 +85,19 @@ JSONRPC_URL=http://103.138.113.121:8545/
 (if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
 
 ### Put in public and private key 
-**Step 4**: you find `validator.key` file in `data-dir/consensus`  and then replace private-key in this file.
+**Step 5**: There are two ways to implement:
+
+1. you use the available information in `data-dir` folder.
+
+Example:
+```ruby
+[SECRETS INIT]
+Public key (address) = 0xfDA89fDE5917d88a7823925e810B0FB73cE87A65
+BLS Public key       = 0xadb78c42d3b13c026e60750499c0dc0d5a618a8671af1fe49c52fe7101bf16e9147f125e46e7d1fe6b5bdee8e9fdb2d9
+Node ID              = 16Uiu2HAkzDhKRhdGdmBwdUTLy5W5ee2DGKTy1JikEHm1PxesMZ24
+```
+
+2. you find `validator.key` file in `data-dir/consensus`  and then replace it with your private-key.
 
 (Note: check your private-key in metamask)
 
@@ -88,12 +106,16 @@ JSONRPC_URL=http://103.138.113.121:8545/
 ### Run server makefile (choose Linux, Windows, MacOS)
 **Step 5**: `make run-macOS` or `make run-windows` or `make run-linux`
 
+(choose the operating system that is compatible with your computer)
+
 ### Request for testnet staking tokens
 **Step 6**:
-### Telegram: 'https://t.me/screehavintestnet'
-### Email: `hello@chainverse.org`
 
-### Become A Validator
+=> Telegram: 'https://t.me/screehavintestnet'
+
+=> Email: `hello@chainverse.org`
+
+### Become a validator
 **Step 7**:
 you find `keys.text` in `scripts/keys.txt` and add your private-key in it.
 Next, you run command `make batch-staking`
