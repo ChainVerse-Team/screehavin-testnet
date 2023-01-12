@@ -79,7 +79,7 @@ JSONRPC_URL=http://103.138.113.121:8545/
 (if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
 
 ### Put in public and private key 
-**Step 4**: you find `validator.key` file in `data-dir` folder and then replace private-key in this file.
+**Step 4**: you find `validator.key` file in `data-dir/consensus`  and then replace private-key in this file.
 
 (Note: check your private-key in metamask)
 
@@ -95,7 +95,7 @@ JSONRPC_URL=http://103.138.113.121:8545/
 
 ### Become A Validator
 **Step 7**:
-you find `keys.text` in scripts/key.txt and add your private-key in it.
+you find `keys.text` in `scripts/keys.txt` and add your private-key in it.
 Next, you run command `make batch-staking`
 
 (VALIDATOR_THRESHOLD = 10 SCREE)
