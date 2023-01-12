@@ -67,9 +67,18 @@ Block explorer URL: http://explorer.screehavin.io/
 
 ***
 
+### How to install the Make package on server
+
+**Step 2**:
+`sudo apt update`
+`sudo apt install make`
+`make -version`
+
+(if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
+
 ### Create a data directory
 
-**Step 2**: `make data-dir-macOS` or `make data-dir-linux` or `make data-dir-windows`
+**Step 3**: `make data-dir-macOS` or `make data-dir-linux` or `make data-dir-windows`
 
 (choose the operating system that is compatible with your computer)
 
@@ -77,7 +86,7 @@ Block explorer URL: http://explorer.screehavin.io/
 
 ### Setting environment
 
-**Step 3**: Create `.env` file
+**Step 4**: Create `.env` file
 
 ```ruby
 STAKING_CONTRACT=0x0000000000000000000000000000000000001001
@@ -85,36 +94,19 @@ JSONRPC_URL=http://103.138.113.121:8545/
 ```
 ***
 
-### How to install the Make package on server
-
-**Step 4**:
-`sudo apt update`
-`sudo apt install make`
-`make -version`
-
-(if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
-
 ### Put in public and private key 
-
-***
 
 **Step 5**: There are two ways to implement:
 
-1. you use the available information in `data-dir` folder.
+<img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
-Example:
-```ruby
-[SECRETS INIT]
-Public key (address) = 0xfDA89fDE5917d88a7823925e810B0FB73cE87A65
-BLS Public key       = 0xadb78c42d3b13c026e60750499c0dc0d5a618a8671af1fe49c52fe7101bf16e9147f125e46e7d1fe6b5bdee8e9fdb2d9
-Node ID              = 16Uiu2HAkzDhKRhdGdmBwdUTLy5W5ee2DGKTy1JikEHm1PxesMZ24
-```
+1. you use the available information in `data-dir` folder.
 
 2. you find `validator.key` file in `data-dir/consensus`  and then replace it with your private-key.
 
 (Note: check your private-key in metamask)
 
-<img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
+
 
 ***
 
