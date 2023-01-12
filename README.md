@@ -56,6 +56,8 @@ Block explorer URL: http://explorer.screehavin.io/
 
 (if you haven't downloaded `git`, please follow the link https://git-scm.com/downloads)
 
+`git version`
+
 `git clone https://github.com/ChainVerse-Team/screehavin-testnet.git`
 
 `cd screehavin-testnet`
