@@ -94,19 +94,13 @@ JSONRPC_URL=http://103.138.113.121:8545/
 ```
 ***
 
-### Put in public and private key 
+### How to get private key in data-dir
 
-**Step 5**: There are two ways to implement:
+**Step 5**:
 
 <img width="326" alt="Screenshot 2023-01-05 at 10 11 06" src="https://user-images.githubusercontent.com/55268800/210697465-1cb8b817-9431-4c00-b66b-8cf1973bff77.png">
 
-1. you use the available information in `data-dir` folder.
-
-2. you find `validator.key` file in `data-dir/consensus`  and then replace it with your private-key.
-
-(Note: check your private-key in metamask)
-
-
+you find `validator.key` file in `data-dir/consensus`.
 
 ***
 
