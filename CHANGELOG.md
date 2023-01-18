@@ -2,7 +2,7 @@
 
 ## Current
 
-### ScreeHavin-Explorer v1.0.3
+### ScreeHavin-Testnet v1.0.3
 
 Features:
 
@@ -10,7 +10,7 @@ Features:
 
 + Update Increase Covenant Share Of Bonus
 
-### ScreeHavin-Explorer v1.0.2
+### ScreeHavin-Testnet v1.0.2
 
 Features:
 
