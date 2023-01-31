@@ -2,6 +2,15 @@
 
 ## Current
 
+### ScreeHavin-Testnet v1.0.4
+
+Features:
+
++ Add Track Total Supply Covenant
+
++ Refactor Tracking Block Rewards
+
+
 ### ScreeHavin-Testnet v1.0.3
 
 Features:
