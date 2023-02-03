@@ -2,6 +2,12 @@
 
 ## Current
 
+### ScreeHavin-Testnet v1.0.5
+
+Features:
+
++ Revert Contract Calls
+
 ### ScreeHavin-Testnet v1.0.4
 
 Features:
