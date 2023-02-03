@@ -2,11 +2,25 @@
 
 ## Current
 
+### Screehavin-Testnet v1.0.6
+
+Features:
+
++ Restore Seed Init
+
++ Remove Log
+
++ Check Errs, Optimize Writing Seeds
+
++ Change Geth Module
+
+
 ### ScreeHavin-Testnet v1.0.5
 
 Features:
 
 + Revert Contract Calls
+
 
 ### ScreeHavin-Testnet v1.0.4
 
@@ -24,6 +38,7 @@ Features:
 + Update Blockreward Validator Distribution in 20 years
 
 + Update Increase Covenant Share Of Bonus
+
 
 ### ScreeHavin-Testnet v1.0.2
 
