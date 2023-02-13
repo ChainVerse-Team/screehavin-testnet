@@ -2,6 +2,15 @@
 
 ## Current
 
+### Screehavin-Testnet v1.0.7
+
+Features:
+
++ Update Api Portal
+
++ Feat: refactor reward seed db
+
+
 ### Screehavin-Testnet v1.0.6
 
 Features:
