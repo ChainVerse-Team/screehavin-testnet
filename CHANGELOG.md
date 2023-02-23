@@ -6,6 +6,10 @@
 
 Features:
 
++ Refactor: Add Logger Location
+
++ Feat: Predeploy Withdrawal Address
+
 + Update Api Portal
 
 + Feat: refactor reward seed db
