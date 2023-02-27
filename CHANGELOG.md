@@ -6,6 +6,12 @@
 
 Features:
 
++ Fix: Predeploy Slot 
+
++ Hotfix: Fix Commiting Date
+
++ Feat: Proposer Delegation 
+
 + Refactor: Add Logger Location
 
 + Feat: Predeploy Withdrawal Address
