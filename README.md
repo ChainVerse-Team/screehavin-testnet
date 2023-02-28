@@ -20,7 +20,7 @@ Disk:
 
 ### Screehavin Explorer:  [http://explorer.screehavin.io/](http://explorer.screehavin.io/)
 
-<img width="1499" alt="Screenshot 2023-02-28 at 13 57 48" src="https://user-images.githubusercontent.com/55268800/221777857-fff871df-997a-40c2-83d8-60dc755c3857.png">
+<img width="1496" alt="Screenshot 2023-02-28 at 14 02 43" src="https://user-images.githubusercontent.com/55268800/221778698-26b83edf-fbfe-4e4a-b830-69769c2e3523.png">
 
 ### Demo: View nodes in blockchain
 
