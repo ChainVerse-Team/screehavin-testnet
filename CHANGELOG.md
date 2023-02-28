@@ -2,6 +2,18 @@
 
 ## Current
 
+### Screehavin-Testnet v1.0.8
+
+Features:
+
++ Feat: First Attempt To Fix Invalid Root Hash 
+
++ Feat: Config Validator Subset For Small Staker
+
++ Fix: Errors In Folder Scripts And Query_test File
+
++ Fix: Go-ibft Version
+
 ### Screehavin-Testnet v1.0.7
 
 Features:
