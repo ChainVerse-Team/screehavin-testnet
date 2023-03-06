@@ -6,6 +6,8 @@
 
 Features:
 
++ Feat: Save Purge History 
+
 + Feat: First Attempt To Fix Invalid Root Hash 
 
 + Feat: Config Validator Subset For Small Staker
