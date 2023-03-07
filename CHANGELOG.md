@@ -6,6 +6,8 @@
 
 Features:
 
++ Fix: Invalid State Root In Distribute Reward Covenant 
+
 + Feat: Save Purge History 
 
 + Feat: First Attempt To Fix Invalid Root Hash 
