@@ -6,6 +6,8 @@
 
 Features:
 
++ Fix: Covenant Share Transaction Fee
+
 + Fix: Invalid State Root In Distribute Reward Covenant 
 
 + Feat: Save Purge History 
