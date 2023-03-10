@@ -6,6 +6,8 @@
 
 Features:
 
++ Fix: Nil Pointer Accessing
+
 + Fix: Covenant Share Transaction Fee
 
 + Fix: Invalid State Root In Distribute Reward Covenant 
