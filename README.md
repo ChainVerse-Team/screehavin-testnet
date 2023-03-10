@@ -43,7 +43,7 @@ Name : screehavin testnet
 RPC URL : http://103.138.113.121:8545/ (IP is interchangeable with other server’s IP, default server’s RPC port is 8545)
 ChainID : 100 (default)
 Currency Symbol: SCREE
-Block explorer URL: http://explorer.screehavin.io/
+Block explorer URL: http://explorer.screehavin.com/
 ```
 
 ***
