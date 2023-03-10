@@ -35,7 +35,7 @@ Disk:
 ![image](https://user-images.githubusercontent.com/55268800/208595850-28c77b45-2fa3-4aed-af22-3cbfcc001017.png)
 
 **Step 2**: Fill in these informations
-<img width="940" alt="Screenshot 2023-01-10 at 10 42 58" src="https://user-images.githubusercontent.com/55268800/211457147-6b7e3a04-51de-402a-9dc5-3902bb2f0a28.png">
+<img width="962" alt="Screenshot 2023-03-10 at 16 29 47" src="https://user-images.githubusercontent.com/55268800/224278707-7ae3d254-a2c4-4163-a885-8b8acc2328a9.png">
 
 
 ```ruby
