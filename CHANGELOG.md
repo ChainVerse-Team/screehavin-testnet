@@ -6,6 +6,8 @@
 
 Features:
 
++ Hotfix: Validator Node Catching Up Incorrect Timestamp Data
+
 + Fix: Nil Pointer Accessing
 
 + Fix: Covenant Share Transaction Fee
