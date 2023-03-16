@@ -6,6 +6,8 @@
 
 Features:
 
++ Feat: Remove Panics In Code And Update Check Nil
+
 + Feat/group rpc
 
 + Feat: Add Whoami ci/cd
