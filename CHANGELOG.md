@@ -6,6 +6,14 @@
 
 Features:
 
++ Feat/group rpc
+
++ Feat: Add Whoami ci/cd
+
++ Hotfix: Move Size Check Variable Into Scope 
+
++ Fix Out Of Range In Sorting Covenant Reward Function
+
 + Hotfix: Validator Node Catching Up Incorrect Timestamp Data
 
 + Fix: Nil Pointer Accessing
