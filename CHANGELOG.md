@@ -6,6 +6,8 @@
 
 Features:
 
++ Fix: Thread Locking When Processing Tracking Rewards
+
 + Feat: Remove Panics In Code And Update Check Nil
 
 + Feat/group rpc
