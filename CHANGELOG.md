@@ -6,6 +6,10 @@
 
 Features:
 
++ Fix: Bulk Sync Nil Pointer
+
++ Feat: Add Postfix For Logs File, Move Locks To Executor
+
 + Fix: Thread Locking When Processing Tracking Rewards
 
 + Feat: Remove Panics In Code And Update Check Nil
