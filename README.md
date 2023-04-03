@@ -20,7 +20,8 @@ Disk:
 
 ### Screehavin Explorer:  [http://explorer.screehavin.com/](http://explorer.screehavin.com/)
 
-<img width="1496" alt="Screenshot 2023-02-28 at 14 02 43" src="https://user-images.githubusercontent.com/55268800/221778698-26b83edf-fbfe-4e4a-b830-69769c2e3523.png">
+<img width="1495" alt="Screenshot 2023-04-03 at 15 33 02" src="https://user-images.githubusercontent.com/55268800/229455765-ddb19126-5f40-495b-a1a1-a6a71eb57271.png">
+
 
 ### Demo: View nodes in blockchain
 
@@ -40,7 +41,7 @@ Disk:
 
 ```ruby
 Name : screehavin testnet
-RPC URL : http://103.138.113.121:8545/ (IP is interchangeable with other server’s IP, default server’s RPC port is 8545)
+RPC URL : http://103.138.113.121:8545
 ChainID : 100 (default)
 Currency Symbol: SCREE
 Block explorer URL: http://explorer.screehavin.com/
