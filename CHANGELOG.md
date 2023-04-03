@@ -7,6 +7,10 @@
 
 Features:
 
++ Fix: Move Global Total Coin Base To Local Scope
+
++ Feat: Global Counter 
+
 + Fix: Cache Metadata At Epoch Block & Fix Cache Test
 
 + Fix Set Node Storage Snapshot
