@@ -3,9 +3,13 @@
 ## Current
 
 
-### Screehavin-Testnet v1.0.8
+### Screehavin-Testnet v1.0.9
 
 Features:
+
++ Fix: Move Global Total Coin Base To Local Scope
+
++ Feat: Global Counter 
 
 + Fix: Cache Metadata At Epoch Block & Fix Cache Test
 
