@@ -7,6 +7,12 @@
 
 Features:
 
++ Fix Fetch Covenants At Epoch Snapshot
+
++ Feat: Inactive Validators Listen To Blk Creation
+
++ Hotfix: Assign Validator Subset For Writing Seals Incorrectly
+
 + Fix: Move Global Total Coin Base To Local Scope
 
 + Feat: Global Counter 
