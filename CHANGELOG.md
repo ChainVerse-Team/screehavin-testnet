@@ -7,6 +7,24 @@
 
 Features:
 
++ Feat/Pom Execution Detail
+
++ Refactor: Update Library
+
++ Feat: Add Export Port For Prometheus To Access After Running
+
++ Fix/Leverage Cache
+
++ Feat: Extend Epoch Block Time In Core
+
++ Update NewSyncPeerClient And Fix Nil Pointer
+
++ Panic -> Send On Closed Channel Inside Syncer
+
++ Feat: Some Events Might Not Be Received By Subscriber
+
++ Refactor big Int
+
 + Fix Fetch Covenants At Epoch Snapshot
 
 + Feat: Inactive Validators Listen To Blk Creation
