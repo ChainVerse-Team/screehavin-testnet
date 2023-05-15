@@ -2,6 +2,18 @@
 
 ## Current
 
+### Screehavin-Testnet v1.0.10
+
+Features:
+
++ Log Address And Reward Amount
+
++ Fix Cache, Snapshot Delegators
+
++ Refactor, And Log Debug For Txn State Root
+
++ Fix Mounting Wrong Dir Path Inside Container
+
 
 ### Screehavin-Testnet v1.0.9
 
