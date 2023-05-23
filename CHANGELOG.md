@@ -6,6 +6,18 @@
 
 Features:
 
++ Hotfix: Txn Snapshot
+
++ Fix: Increase Default Open File Cap
+
++ Fix: Update Go Mod
+
++ Debug Log Amount
+
++ Fix: Extend Epoch Timeout To 30s
+
++ Fix: Add Nil Pointer Validate
+
 + Log Address And Reward Amount
 
 + Fix Cache, Snapshot Delegators
