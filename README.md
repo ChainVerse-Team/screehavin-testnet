@@ -4,15 +4,12 @@ Screehavin is a customized blockchain protocol based on polygon edge.
 
 # Minimum System Requirements:
 
-RAM: 2 GB
-
-CPU: 2 cores CPU 
-
-Disk: 
-
-+ 10 GB root patition
-
-+ 30 GB root partition with LVM for disk extension
+| Component| Minimum Requirement |  Recommended  |
+|----------|---------------------|---------------|
+| Processor|     4-core CPU      |  8-core CPU   |
+|  Memory  |      8 GB RAM       |  16 GB RAM    |
+|  Storage |     200 GB SSD      |   1 TB SSD    |  
+|  Network | High-speed internet connection | Dedicated server with gigabit connection |
 
 # 
 
