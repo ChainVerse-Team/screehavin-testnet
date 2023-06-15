@@ -6,6 +6,28 @@
 
 Features:
 
++ Feat: Limiting Purge Results
+
++ Fix: Refactor Earning Stats
+
++ Store Receipts To Its Cache After Build Block Done
+
++ Fix: Mitigate Unmarshal RLP Errors 
+
++ Feat: Deploy k8s 
+
++ Revert To EVM Queries
+
++ Fix/Logging Fetch Metada
+
++ Logging: Log Time To Investigate
+
++ Fix: Add Map Indexes
+
++ Feat: Optimize Fetch Data 
+
++ Hot Fix/Nil Pointer 
+
 + Hotfix: Txn Snapshot
 
 + Fix: Increase Default Open File Cap
