@@ -1,3 +1,5 @@
+![screehavin_logo](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/5239e348-16d2-434b-bff8-410b6182b7f4)
+
 # Screehavin-Testnet
 
 Screehavin is a customized blockchain protocol based on polygon edge.
@@ -112,11 +114,19 @@ you find `validator.key` file in `data-dir/consensus`.
 
 ### Request for testnet staking tokens
 
-**Step 7**:
+**Step 7**: Contact us
 
-=> Telegram: 'https://t.me/screehavintestnet'
+Email: `hello@chainverse.org`
 
-=> Email: `hello@chainverse.org`
+<div>
+  <a href="https://t.me/screehavintestnet">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" alt="Telegram" width="32">
+  </a>
+  
+  <a href="https://twitter.com/screehavin">
+   <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Twitter" width="32">
+  </a>
+</div>
 
 ***
 
