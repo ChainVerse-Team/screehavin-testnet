@@ -2,6 +2,18 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.0-beta
+
+Features:
+
++ Update Subset Size Calc Function
+
++ Feat: Modify Purge Time
+
++ Feat/Add Gas Price
+
++ Feat: Add API Return Recommend Gas Price Recommend
+
 ### Screehavin-Testnet v1.0.10
 
 Features:
