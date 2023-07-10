@@ -102,6 +102,8 @@ JSONRPC_URL=http://103.138.113.121:8545/
 
 you find `validator.key` file in `data-dir/consensus`.
 
+(do not reveal your private key to anyone)
+
 ***
 
 ### Run server makefile (choose Linux, Windows, MacOS)
@@ -133,7 +135,6 @@ Email: `hello@chainverse.org`
 ### Become a validator
 
 **Step 8**: `make batch-staking`
-(do not reveal your private key to anyone)
 
 (VALIDATOR_THRESHOLD = 10 SCREE)
 
