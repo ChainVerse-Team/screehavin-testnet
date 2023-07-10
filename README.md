@@ -132,9 +132,8 @@ Email: `hello@chainverse.org`
 
 ### Become a validator
 
-**Step 8**:
-you find `keys.text` in `scripts/keys.txt` and add your private-key in it (you get private-key in `data-dir/consensus/validator.key`).
-Next, you run command `make batch-staking`
+**Step 8**: `make batch-staking`
+(do not reveal your private key to anyone)
 
 (VALIDATOR_THRESHOLD = 10 SCREE)
 
