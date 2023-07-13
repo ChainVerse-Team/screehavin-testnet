@@ -71,6 +71,9 @@ Block explorer URL: http://explorer.screehavin.com/
 
 `cd screehavin-testnet`
 
+![telegram-cloud-photo-size-5-6161413019322661262-x](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/d4744b68-cb72-42a3-96d1-6b29999bd682)
+
+
 ***
 
 ### How to install the Make package on server
@@ -81,19 +84,30 @@ Block explorer URL: http://explorer.screehavin.com/
 `sudo apt install make`
 `make -version`
 
-For Windows users, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/
+![telegram-cloud-photo-size-5-6161413019322661263-x](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/1cda0530-5b52-4e31-ad2a-29bff7f8197e)
+
+
+For Windows users, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/ (we recommend using 
+ the chocolatey method)
 
 ### Create a data directory
 
-**Step 3**: `make data-dir-macOS` or `make data-dir-linux` or `make data-dir-windows`
+**Step 3**: Choose the operating system that is compatible with your computer
 
-(choose the operating system that is compatible with your computer)
+`make data-dir-macOS` or `make data-dir-linux` or `make data-dir-windows`
+
+![telegram-cloud-photo-size-5-6161413019322661264-y](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/0fc41e2d-74eb-44cd-ab14-8cd0b1a89e8a)
+
 
 ***
 
 ### Setting environment
 
-**Step 4**: Create `.env` file
+**Step 4**: Create `.env` file in screehavin-testnet folder
+
+For example: In Windows
+
+C :\users\ <PC_name> \screehavin-testnet
 
 ```ruby
 STAKING_CONTRACT=0x0000000000000000000000000000000000001001
@@ -123,7 +137,7 @@ you find `validator.key` file in `data-dir/consensus`.
 
 ### Request for testnet staking tokens
 
-**Step 7**: Contact us
+**Step 7**: Contact us to request tokens
 
 Email: `hello@chainverse.org`
 
