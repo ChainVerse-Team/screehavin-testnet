@@ -54,14 +54,20 @@ Block explorer URL: http://explorer.screehavin.com/
 
 ### Clone a repository into a new directory
 
-**Step 1**: 
+**Step 1**: Open terminal on your PC
 
 
 (if you haven't downloaded `git`, please follow the link https://git-scm.com/downloads)
 
 `git version`
 
+![image](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/7b5dd9a3-d60d-4f57-9549-4f8d9a2ce941)
+
+
 `git clone https://github.com/ChainVerse-Team/screehavin-testnet.git`
+
+![telegram-cloud-photo-size-5-6161413019322661258-x](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/d27903b6-7a23-4ab4-b493-78c49b62c3d2)
+
 
 `cd screehavin-testnet`
 
@@ -69,12 +75,13 @@ Block explorer URL: http://explorer.screehavin.com/
 
 ### How to install the Make package on server
 
-**Step 2**:
+**Step 2**: For Linux and MacOS users, you can execute this command:
+
 `sudo apt update`
 `sudo apt install make`
 `make -version`
 
-(if you run Windows, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/)
+For Windows users, please follow the instructions in the link https://www.technewstoday.com/install-and-use-make-in-windows/
 
 ### Create a data directory
 
