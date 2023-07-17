@@ -8,9 +8,9 @@ Screehavin is a customized blockchain protocol based on polygon edge.
 
 | Component| Minimum Requirement |  Recommended  |
 |----------|---------------------|---------------|
-| Processor|     4-core CPU      |  8-core CPU   |
-|  Memory  |      8 GB RAM       |  16 GB RAM    |
-|  Storage |     200 GB SSD      |   1 TB SSD    |  
+| Processor|     2-core CPU      |  4-core CPU   |
+|  Memory  |      2 GB RAM       |  4 GB RAM     |
+|  Storage |     25 GB SSD       |   50 GB SSD   |  
 |  Network | High-speed internet connection | Dedicated server with gigabit connection |
 
 # 
