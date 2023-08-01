@@ -2,6 +2,19 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.0
+
+Features:
+
++ Feat: Update New Metadata
+
++ Feat: Covenant Social Mobility
+
++ Feat: Update Staking Contract
+
++ Feat: Modify Txfee Share
+
+
 ### Screehavin-Testnet v1.1.0-beta
 
 Features:
