@@ -2,6 +2,22 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.1-beta
+
++ Add new contracts ( Grant Contract, MarketSaleContract )
+
++ Update new features: Add Foundation Name, Warning, Ban, Suspend in Staking Contract
+
++ Refactor flow POM in Screehavin_Core
+
++ Config new design of Metadata
+
++ Implement new design of covenant social mobility
+
++ Update transaction fee share rebalance
+
++ Implement unstake mechanism
+
 ### Screehavin-Testnet v1.1.0
 
 Features:
