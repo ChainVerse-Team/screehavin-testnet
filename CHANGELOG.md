@@ -2,6 +2,12 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.1-delta
+
++ Fix Foundation Name In Staking Contract
+
++ Fix genesis and binary file
+
 ### Screehavin-Testnet v1.1.1-gamma
 
 + Fix genesis and binary file
