@@ -4,6 +4,10 @@
 
 ### Screehavin-Testnet v1.1.1-beta
 
++ Fix genesis and binary file
+
+### Screehavin-Testnet v1.1.1-beta
+
 + Fix Contract-Creator 
 
 + Fix To Address In Tx Type Nil
