@@ -2,7 +2,7 @@
 
 ## Current
 
-### Screehavin-Testnet v1.1.1-beta
+### Screehavin-Testnet v1.1.1-gamma
 
 + Fix genesis and binary file
 
