@@ -19,23 +19,24 @@ Screehavin is a customized blockchain protocol based on polygon edge.
 
 ### Screehavin Explorer:  [http://explorer.screehavin.com/](http://explorer.screehavin.com/)
 
-<img width="1495" alt="Screenshot 2023-04-03 at 15 33 02" src="https://user-images.githubusercontent.com/55268800/229455765-ddb19126-5f40-495b-a1a1-a6a71eb57271.png">
+<img width="1300" alt="Screenshot 2023-04-03 at 15 33 02" src="https://user-images.githubusercontent.com/55268800/229455765-ddb19126-5f40-495b-a1a1-a6a71eb57271.png">
 
 
 ### Demo: View nodes in blockchain
 
-![image](https://user-images.githubusercontent.com/55268800/208595265-b7c106d2-7ffa-40a1-adf9-1ebade64152e.png)
+<img width="1300" src="https://user-images.githubusercontent.com/55268800/208595265-b7c106d2-7ffa-40a1-adf9-1ebade64152e.png">
 
 ***
 
 # How to add screehavin on metamask
 
 **Step 1**: Go to the network => Add Network
-# # 
-![image](https://user-images.githubusercontent.com/55268800/208595850-28c77b45-2fa3-4aed-af22-3cbfcc001017.png)
+
+<img width="300" src="https://user-images.githubusercontent.com/55268800/208595850-28c77b45-2fa3-4aed-af22-3cbfcc001017.png"><br>
 
 **Step 2**: Fill in these informations
-<img width="962" alt="Screenshot 2023-03-10 at 16 29 47" src="https://user-images.githubusercontent.com/55268800/224278707-7ae3d254-a2c4-4163-a885-8b8acc2328a9.png">
+
+<img width="700" alt="Screenshot 2023-03-10 at 16 29 47" src="https://user-images.githubusercontent.com/55268800/224278707-7ae3d254-a2c4-4163-a885-8b8acc2328a9.png">
 
 
 ```ruby
