@@ -2,6 +2,14 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.2-alpha
+
++ Feat: Update File go-solc In Smart Contract
+
++ Change NFT Contract Symbol And Name
+
++ Fix Slot Layout For Delegator Stake Amount
+
 ### Screehavin-Testnet v1.1.1-delta
 
 + Fix Foundation Name In Staking Contract
