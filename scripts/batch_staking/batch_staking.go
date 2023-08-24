@@ -103,7 +103,8 @@ func batchStaking(priKeys []string, client *ethclient.Client) error {
 		auth.GasLimit = uint64(1e12)
 		auth.GasPrice = gasPrice
 
-		tx, err := instance.Stake(auth)
+		// TODO
+		tx, err := instance.Stake(auth, "ParthLabs")
 		if err != nil {
 			return err
 		}
