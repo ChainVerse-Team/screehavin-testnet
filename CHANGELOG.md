@@ -2,6 +2,16 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.2-beta
+
++ Feat: Update Genesis File & Config go-solc Staking Contract
+
++ Feat: Update Genesis File & Config go-solc Grant Contract
+
++ Fix re-stake Staking Contract
+
++ Change Naming Convention In Covenant Contract
+
 ### Screehavin-Testnet v1.1.2-alpha
 
 + Feat: Update File go-solc In Smart Contract
