@@ -157,5 +157,5 @@ Email: `hello@chainverse.org`
 
 **Step 8**: `make batch-staking`
 
-(VALIDATOR_THRESHOLD = 10 SCREE)
+(VALIDATOR_THRESHOLD = 500000 SCREE)
 
