@@ -19,8 +19,7 @@ Screehavin is a customized blockchain protocol based on polygon edge.
 
 ### Screehavin Explorer:  [http://explorer.screehavin.com/](http://explorer.screehavin.com/)
 
-<img width="1300" alt="Screenshot 2023-04-03 at 15 33 02" src="https://user-images.githubusercontent.com/55268800/229455765-ddb19126-5f40-495b-a1a1-a6a71eb57271.png">
-
+<img width="1300" alt="Screenshot 2023-04-03 at 15 33 02" src="https://user-images.githubusercontent.com/55268800/263613497-a98882db-e8ee-4120-bec8-4e640b153945.png">
 
 ### Demo: View nodes in blockchain
 
@@ -49,7 +48,7 @@ Block explorer URL: http://explorer.screehavin.com/
 
 ***
 
-# BlockChain Development Procedure
+# :hammer_and_wrench: BlockChain Development Procedure
 
 ## Deployment steps
 
