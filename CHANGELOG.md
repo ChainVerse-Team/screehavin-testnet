@@ -2,6 +2,14 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.2-delta
+
++ Feat: Update Genesis File & Config go-solc Staking Contract
+
++ Feat: Update Genesis File & Config go-solc Grant Contract
+
++ Feat: Update Genesis File
+
 ### Screehavin-Testnet v1.1.2-beta
 
 + Feat: Update Genesis File & Config go-solc Staking Contract
