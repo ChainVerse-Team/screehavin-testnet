@@ -155,7 +155,9 @@ Email: `hello@chainverse.org`
 
 ### Become a validator
 
-**Step 8**: `make batch-staking`
+**Step 8**: `make batch-staking` or you can call directly from https://explorer.screehavin.com/
 
 (VALIDATOR_THRESHOLD = 500000 SCREE)
+
+
 
