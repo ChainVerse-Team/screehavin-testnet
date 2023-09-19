@@ -98,8 +98,8 @@ func batchStaking(priKeys []string, client *ethclient.Client) error {
 		}
 
 		auth.Nonce = big.NewInt(int64(nonce))
-		auth.Value = big.NewInt(1e18) // stake 1 ether
-		auth.Value = auth.Value.Mul(auth.Value, big.NewInt(10))
+		auth.Value = big.NewInt(1e18) // stake 500000 ether
+		auth.Value = auth.Value.Mul(auth.Value, big.NewInt(500000))
 		auth.GasLimit = uint64(1e12)
 		auth.GasPrice = gasPrice
 
