@@ -2,6 +2,44 @@
 
 ## Current
 
+### Screehavin-Testnet v1.1.2
+
++ Feat/optimize covenant contract
+
++ Fix: The Errors Of Getting Token Holders In Scripts
+
++ Fix: Scripts About Delegator Unstake And Validator Unstake
+
++ Adjust Rewards And Fix Tests
+
++ Feat: Refactor Func canBecomeBoss
+
++ Fix: Repeat Crew Name
+
++ Add Timeout Break For Test
+
++ Fix: Total Stake Size
+
++ Feat: Update Token Slashing & Partial Unstake
+
++ Fix: Fix Minor Conventions
+
++ Feat: Change Bonus Share Calculation For Crew members
+
++ Elaborate For Race Tracing Problem Comment
+
++ Fix Token ID Read In Json RPC Calls
+
++ Update Genesis Pre-Deploy Param
+
++ Fix Only Owner Can Call Ratify Covenant
+
++ Block CheckStateValidators tx From External & Update Staking Contract
+
++ Fix Script For Lower Bash Version
+
++ Feat: Add Script Generate Contract Binding Go In macOS
+
 ### Screehavin-Testnet v1.1.2-delta
 
 + Feat: Update Genesis File & Config go-solc Staking Contract
