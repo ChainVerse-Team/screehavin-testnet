@@ -59,7 +59,7 @@ Block explorer URL: http://explorer.screehavin.com/
 
 (if you haven't downloaded `git`, please follow the link https://git-scm.com/downloads)
 
-`git version`
+`git --version`
 
 ![image](https://github.com/ChainVerse-Team/screehavin-testnet/assets/55268800/7b5dd9a3-d60d-4f57-9549-4f8d9a2ce941)
 
